@@ -4,4 +4,4 @@ data:
     username:
     password:
 config:
-  info: "开发环境 dev.yml"
+  info: "开发环境界面 dev.yml"
