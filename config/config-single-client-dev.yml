@@ -3,3 +3,5 @@ data:
   user:
     username:
     password:
+config:
+  info: "开发环境 dev.yml"
